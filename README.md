@@ -1,0 +1,1 @@
+find the most important factors and the relative magnitude that can impact an employee in IT Sector to contemplate leaving the organization (Voluntary Attrition) using Multinomial Logistic Regression in SPSS.
